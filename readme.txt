@@ -11,26 +11,28 @@ Create and maintain a complete, customized, and up-to-date events page on your W
 
 == Description ==
 
-Why GetEvents
+= Why GetEvents? = 
 
 GetEvents provides the largest global database of events of all kinds—business and recreational. Download the GetEvents WordPress plugin to create relevant events pages for your website. 
 
 From niche bloggers to major websites, GetEvents offers a variety of ways to create customized web pages that show only relevant events in your area, categorized exactly as your site’s visitors would like to see them.
 
-What GetEvents can do for your website
+= What GetEvents can do for your website =
 
 An Events page gives website visitors a reason to stay longer, bookmark a site, and return often. For hospitality and tourist sites, an appealing local event listing can be the difference between capturing a customer and having the customer visit a different location. For business, a comprehensive events page can make you stand out as industry leader. 
 
 Personalize and share events:
-- Create an events page with your own events only or tap into GetEvents' database as well
-- Remove events that don’t fit with the theme of your website
-- Customize your events by setting location and keywords (music, tech, sports, New York City).  
-- Enable your visitors to add more events
-- Brand your events page to suit your style - font color, type, and size, even your background
+
+* Create an events page with your own events only or tap into GetEvents' database as well
+* Remove events that don’t fit with the theme of your website
+* Customize your events by setting location and keywords (music, tech, sports, New York City).  
+* Enable your visitors to add more events
+* Brand your events page to suit your style - font color, type, and size, even your background
 
 It's really simple to setup and maintain your events page: 
-- Hosted and maintained by GetEvents.com
-- Just Click “Add to site” and in less than a minute you will have a new events page that will update automatically
+
+* Hosted and maintained by GetEvents.com
+* Just Click “Add to site” and in less than a minute you will have a new events page that will update automatically
 
 == Installation ==
 
@@ -46,8 +48,9 @@ https://getevents.zendesk.com/hc
 
 == Screenshots ==
 
-./assets/screenshot-1.png
-./assets/screenshot-2.png
+1. Admin
+2. Event Listings
+
 
 == Changelog ==
 
