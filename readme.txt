@@ -1,31 +1,36 @@
 === Plugin Name ===
-Contributors: https://wordpress.org/support/profile/getevents
-Donate link: [Put donate link here.]
-Tags: Events, Event Listings, SEO
+Contributors: getevents
+Tags: event, events, event page, events page, event calendar, events calendar, event list, events list, event lists, events lists, event listing, event listings, events listings, search events, create events, add events, calendar, create calendar, create events calendar, search engine optimisation, search engine optimization, drive traffic, user engagement, curate events, events curation, concert, sporting event, fest, festival, sports events, party, gathering, happening, bash, party, show, convention, performance, music, theatre, entertainment, networking event, social event, meet and greet
 Requires at least: 3.0.1 or higher
 Tested up to: 3.9.1
-Stable tag: 4.3
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Event Listings on WordPress made super easy. Provide your users with access to the largest Events database in the world.
-
+Create and maintain a complete, customized, and up-to-date events page on your WordPress website in minutes.
 
 == Description ==
 
-Add a rich Events page to your web site with content sourced from the largest database of Events in the world. 
+Why GetEvents
 
-GetEvents searches the web for Events especially tailored to your content, be they local or international; concert, Meetup or convention; leisure or business; small gatherings or large audiences.
+GetEvents provides the largest global database of events of all kinds—business and recreational. Download the GetEvents WordPress plugin to create relevant events pages for your website. 
 
-Combine your own Events or rely only on ours; adding a GetEvents page to your web site will:
+From niche bloggers to major websites, GetEvents offers a variety of ways to create customized web pages that show only relevant events in your area, categorized exactly as your site’s visitors would like to see them.
 
-- Drive maximum traffic to your web site with zero effort
-- Significantly increase user time on your site
-- Give users a reason to come back to you for more
-- Improve SEO content on your website
-- Simply filter the topic (music, entertainment, sports, etc.) and the location, and rely on GetEvents to provide all Events or add some of your own. 
- 
-GetEvents takes care of the heavy lifting for you, updating all event listings daily.
+What GetEvents can do for your website
+
+An Events page gives website visitors a reason to stay longer, bookmark a site, and return often. For hospitality and tourist sites, an appealing local event listing can be the difference between capturing a customer and having the customer visit a different location. For business, a comprehensive events page can make you stand out as industry leader. 
+
+Personalize and share events:
+- Create an events page with your own events only or tap into GetEvents' database as well
+- Remove events that don’t fit with the theme of your website
+- Customize your events by setting location and keywords (music, tech, sports, New York City).  
+- Enable your visitors to add more events
+- Brand your events page to suit your style - font color, type, and size, even your background
+
+It's really simple to setup and maintain your events page: 
+- Hosted and maintained by GetEvents.com
+- Just Click “Add to site” and in less than a minute you will have a new events page that will update automatically
 
 == Installation ==
 
