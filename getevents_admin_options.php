@@ -29,9 +29,11 @@ if (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') {
 
 <script type="text/javascript">
     var geteventsCreateUserURL = "<?php echo $geteventsCreateUserURL;?>";
-    $("body").on("kmLoaded", function() {
+
+    setTimeout(function() {
         _kmq.push(['record', 'Wp install plugin']);
-    });
+    }, 1000);
+
 </script>
 
 <div class="wrap">
