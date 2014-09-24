@@ -36,67 +36,12 @@ It's really simple to setup and maintain your events page:
 
 == Installation ==
 
-## Step 1: Install the plugin
 
-Open up your Wordpress blog and select the **Plugins** | **Add New** option
-
-![Plugins Add New](https://getevents.co/public/images/platforms/wordpress/instructions/wp_plugins_add_new.png)
-
-In the search box, type **getevents**
-
-![Plugins Search](https://getevents.co/public/images/platforms/wordpress/instructions/wp_plugins_search.png)
-
-Hit the **Install Now** button for the **GetEvents Page for Wordpress** plugin
-
-![Plugins Install](https://getevents.co/public/images/platforms/wordpress/instructions/wp_plugins_getevents.png)
-
-**Activate** the plugin
-
-![Plugins Activate](https://getevents.co/public/images/platforms/wordpress/instructions/wp_plugins_activate.png)
-
-Alternatively, you can download and install manually from the Wordpress Plugins page: <a href="https://wordpress.org/plugins/get-events-page" target="_blank">https://wordpress.org/plugins/get-events-page</a>
-
-## Step 2: Create a GetEvents Account
-
-Once activated, the GetEvents plugin should appear in the menu on the left hand side.  Select the plugin and hit the **Create Account** link
-
-![Create Account](https://getevents.co/public/images/platforms/wordpress/instructions/wp_getevents_create_account.png)
-
-You will be taken to the GetEvents website.  You can then sign-up for free by entering your email, website, name and creating a new password.
-
-![GetEvents Signup](https://getevents.co/public/images/platforms/wordpress/instructions/ge_signup.png)
-
-Once you have signed up, you will see your GetEvents Account page.
-
-![GetEvents Account](https://getevents.co/public/images/platforms/wordpress/instructions/ge_account_page.png)
-
-## Step 3: Configure your Event Listings
-
-Once you have an account, we automatically create an Event Listing for you, based on your location.  Select this Event Listing...
-
-![GetEvents Customise](https://getevents.co/public/images/platforms/wordpress/instructions/ge_customise.png)
-
-You can then configure your Event Listing.  Set you City, add Keywords to filter events, change the title and colours...
-
-## Step 4: Add the [shortcode] to your blog
-
-Return to your Wordpress blog and select the GetEvents plugin to Connect your Account.
-
-![Connect Account](https://getevents.co/public/images/platforms/wordpress/instructions/wp_connect_account.png)
-
-Enter the email address and password of your GetEvents account.
-
-![Connected](https://getevents.co/public/images/platforms/wordpress/instructions/wp_connected.png)
-
-You can then add a new Page to your blog.  In the page body, enter the short code **[getevents]**.  
-
-![Add Page](https://getevents.co/public/images/platforms/wordpress/instructions/wp_add_page.png)
-
-Save and preview to see your Event Listings Page...
-
-![Add Page](https://getevents.co/public/images/platforms/wordpress/instructions/wp_event_listings.png)
-
-You now have a GetEvents Event Listings Page on your Wordpress website!
+1. Install GetEvents either via the WordPress.org plugin directory, or by uploading the files to your server
+2. After activating GetEvents, you will be asked to connect to GetEvents.co to Create an Account or Sign-in if you already have an account.
+3. Once you have created a GetEvents Account, you can Configure your Event Listings
+4. Inside your Wordpress admin, simply add the short code [getevents] to a new Web Page to add your Event Listings to your Wordpress site..
+5. That's it.  You're ready to go!
 
 == Frequently Asked Questions ==
 
