@@ -43,6 +43,8 @@ It's really simple to setup and maintain your events page:
 4. Inside your Wordpress admin, simply add the short code [getevents] to a new Web Page to add your Event Listings to your Wordpress site..
 5. That's it.  You're ready to go!
 
+Head over to https://getevents.co/platforms/instructions/wordpress/ for more detailed instructions
+
 == Frequently Asked Questions ==
 
 Check out our Support Site...
