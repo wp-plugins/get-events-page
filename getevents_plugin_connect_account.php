@@ -3,7 +3,7 @@
 $geteventsOptionAccount = 'getevents_account';
 $geteventsServer = 'https://getevents.co';
 
-if ($_GET['action']=='delete_account') {
+if (isset($_GET['action']) && $_GET['action']=='disconnect') {
     delete_option($geteventsOptionAccount);
 }
 

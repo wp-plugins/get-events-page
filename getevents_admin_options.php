@@ -49,6 +49,7 @@ if (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') {
         <div id="getevents-connected">
             <h3>You are now connected to getevents with:</h3>
             <h3 id="user_request_email"><?php echo $geteventsAccount['email'];?></h3>
+            <p><br /><br /><a href="admin.php?page=get-events-page/getevents_admin.php&action=disconnect">Disconnect</a></p>
         </div>
 
         <div id="getevents-listings">

@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: getevents
 Tags: event, events, event page, events page, event calendar, events calendar, event list, events list, event lists, events lists, event listing, event listings, events listings, search events, create events, add events, calendar, create calendar, create events calendar, search engine optimisation, search engine optimization, drive traffic, user engagement, curate events, events curation, concert, sporting event, fest, festival, sports events, party, gathering, happening, bash, party, show, convention, performance, music, theatre, entertainment, networking event, social event, meet and greet
-Requires at least: 3.0.1 or higher
+Requires at least: 4.0.0 or higher
 Tested up to: 3.9.1
 Stable tag: 1.1
 License: GPLv2 or later
@@ -64,12 +64,9 @@ https://getevents.zendesk.com/hc
 
 == Changelog ==
 
-= 1.0 =
-* List versions from most recent at top to oldest at bottom.
+= 1.0 = Initial Release
+= 1.1 = Disconnect option added to clean your connection in case of errors
 
 == Upgrade Notice ==
 
-= 1.0 =
-Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
-
-
+= 1.0 = Initial Release

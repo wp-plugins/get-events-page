@@ -26,8 +26,6 @@ function signInWithKey(accountId, api_key) {
 }
 
 function signIn(dataCredentials) {
-	console.log('signIn');
-
 	jQuery('#getevents-signin').hide();
 
 	jQuery.ajax({
@@ -37,7 +35,6 @@ function signIn(dataCredentials) {
 		data: dataCredentials,
 		success: function (json) {
 			var status = json.status;
-			console.log(json);
 
 			if (status == 'ok') {
 				var email = json.account.email;
@@ -55,15 +52,13 @@ function signIn(dataCredentials) {
 					script: script
 				};
 
-				console.log(requestData);
-
 				jQuery.ajax({
 					type: "GET",
 					url: geteventsPluginPath + 'getevents_admin.php',
 					data: requestData,
 					success: function (response) {
-						//console.log(response);
-						window.location.reload();
+						var windowLocation = geteventsPluginPath.origin + geteventsPluginPath.pathname + geteventsPluginPath.search.replace('&action=disconnect', '');
+						window.location.href = windowLocation;
 					},
 					error: function (res) {
 						jQuery("#error-signin").text("Email or Password not recognised").show().fadeOut(5000);
