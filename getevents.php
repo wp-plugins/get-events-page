@@ -1,7 +1,7 @@
 <?php
 
 /*
-    Plugin Name: GetEvents Page for Wordpress
+    Plugin Name: GetEvents Page for WordPress
     Plugin URI: http://getevents.co/platforms/wordpress
     Description: The GetEvents Wordpress plugin will allow Wordpress users to simply connect their GetEvents account and create a new webpage on their website.
     Version: 2.0
