@@ -39,16 +39,9 @@ It's really simple to setup and maintain your events page:
 
 1. Install GetEvents either via the WordPress.org plugin directory, or by uploading the files to your server
 2. After activating GetEvents, you will be asked to connect to GetEvents.co to Create an Account or Sign-in if you already have an account.
-3. Once you have created a GetEvents Account, you can Configure your Event Listings
-4. Inside your Wordpress admin, simply add the short code [getevents] to a new Web Page to add your Event Listings to your Wordpress site..
+3. Once you have created a GetEvents Account, you can Add an Event Listings page to your WordPress website
+4. Configure your City, Event Listings Title and Colors...
 5. That's it.  You're ready to go!
-
-[youtube https://www.youtube.com/watch?v=JZO7jN88GXQ]
-[youtube https://www.youtube.com/watch?v=fVyqL5eYRQY]
-[youtube https://www.youtube.com/watch?v=HeNMUNGlOKU]
-
-
-Head over to https://getevents.co/platforms/instructions/wordpress/ for more detailed instructions
 
 == Frequently Asked Questions ==
 
