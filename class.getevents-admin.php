@@ -34,15 +34,9 @@ class GetEvents_Admin {
 	}
 
 	function admin_scripts() {
-
-		if (GETEVENTS_DEBUG) {
-	    wp_enqueue_script( 'getevents-react-script', 'http://fb.me/react-with-addons-0.12.0.js' );
-		} else {
-	    wp_enqueue_script( 'getevents-react-script', 'http://fb.me/react-with-addons-0.12.0.min.js' );
-		}
-
+    wp_enqueue_script( 'getevents-jquery-script', '//code.jquery.com/jquery-2.1.0.min.js' );
+    wp_enqueue_script( 'getevents-react-script', '//cdnjs.cloudflare.com/ajax/libs/react/0.12.1/react-with-addons.js' );
     wp_enqueue_script( 'getevents-plugin-script', GETEVENTS__PLUGIN_URL . 'js/WordpressPlugin.js', array("getevents-react-script"), "", true);
-
     $account = get_option(GETEVENTS__DB_USER_INFO);
 /*
  	?>
@@ -56,8 +50,8 @@ class GetEvents_Admin {
 	    if ($account != false) {
 
 	    	if ($account['account']['eventlisting']['id']) {
-			    wp_enqueue_script( 'getevents-eventlistings', GETEVENTS_SERVER . '/eventlistings/' . $account['account']['eventlisting']['id'] . '', array("getevents-react-script"), "", true);
-					add_action( 'wp_enqueue_scripts', 'getevents-eventlistings' );
+			    //wp_enqueue_script( 'getevents-eventlistings', GETEVENTS_SERVER . '/eventlistings/' . $account['account']['eventlisting']['id'] . '', array("getevents-react-script"), "", true);
+					//add_action( 'wp_enqueue_scripts', 'getevents-eventlistings' );
 	    	}
 
 	    	$getevents_pages = GetEvents_Pages::getPages();
