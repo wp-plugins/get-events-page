@@ -3,7 +3,7 @@ Contributors: getevents
 Tags: event, events, event page, events page, event calendar, events calendar, event list, events list, event lists, events lists, event listing, event listings, events listings, search events, create events, add events, calendar, create calendar, create events calendar, search engine optimisation, search engine optimization, drive traffic, user engagement, curate events, events curation, concert, sporting event, fest, festival, sports events, party, gathering, happening, bash, party, show, convention, performance, music, theatre, entertainment, networking event, social event, meet and greet
 Requires at least: 3.0.0 or higher
 Tested up to: 4.1.0
-Stable tag: 2.1
+Stable tag: 2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -66,3 +66,4 @@ https://getevents.zendesk.com/hc
 = 1.0 = Initial Release
 = 2.0 = Redesign for Wordpress Admin
 = 2.1 = Minor UI tweaks
+= 2.2 = Redesigned Event Listings
